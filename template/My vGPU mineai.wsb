@@ -1,0 +1,12 @@
+<Configuration>
+<vGPU>Enable</vGPU>
+<Networking>Default</Networking>
+<MappedFolders>
+  <MappedFolder> 
+    <HostFolder>C:\uni\mineai</HostFolder> 
+    <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\mineai</SandboxFolder> 
+    <ReadOnly>false</ReadOnly> 
+  </MappedFolder>
+</MappedFolders>
+<ClipboardRedirection>Default</ClipboardRedirection>
+</Configuration>
